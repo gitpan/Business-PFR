@@ -1,5 +1,8 @@
 package Business::PFR;
-$Business::PFR::VERSION = '1.0.0';
+{
+  $Business::PFR::VERSION = '1.0.1';
+}
+
 use strict;
 use warnings FATAL => 'all';
 use utf8;
@@ -96,7 +99,7 @@ Business::PFR - validate Russian pension fund number
 
 =head1 VERSION
 
-version 1.0.0
+version 1.0.1
 
 =head1 SYNOPSIS
 
